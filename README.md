@@ -1,6 +1,6 @@
 【0】<a href="https://jiangwei99.github.io/Paper/FUN"  target="_blank" >FUN</a>.
 
-【1】<a href="https://jiangwei99.github.io/Paper/On_the_Capacity_of_Secure_Distributed_Matrix_Multiplication.pdf"  target="_blank" >Chang W T, Tandon R. On the capacity of secure distributed matrix multiplication[C]//2018 IEEE Global Communications Conference (GLOBECOM). IEEE, 2018: 1-6.</a>.
+【1】<a href="https://jiangwei99.github.io/Paper/%E3%80%901%E3%80%91On_the_Capacity_of_Secure_Distributed_Matrix_Multiplication/On_the_Capacity_of_Secure_Distributed_Matrix_Multiplication.pdf"  target="_blank" >Chang W T, Tandon R. On the capacity of secure distributed matrix multiplication[C]//2018 IEEE Global Communications Conference (GLOBECOM). IEEE, 2018: 1-6.</a>.
 
 
 
