@@ -1,1 +1,0 @@
-卷积任务，同时保留了双边隐私，下载速率类似于《Rate-efficiency and straggler- robustness through partition in distributed two-sided secure matrix computation》，并进一步减轻了离散效应。对于卷积任务，作者利用了子向量卷积和可以用来导出卷积结果的固有特性。然后，导出恢复阈值的上限和下限，以表明实现了顺序最优的恢复阈值，即，它不随工人的数量而变化。
