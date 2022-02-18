@@ -2,9 +2,7 @@
 
 【1】<a href="https://jiangwei99.github.io/Paper/%E3%80%901%E3%80%91On_the_Capacity_of_Secure_Distributed_Matrix_Multiplication/On_the_Capacity_of_Secure_Distributed_Matrix_Multiplication.pdf"  target="_blank" >Chang W T, Tandon R. On the capacity of secure distributed matrix multiplication[C]//2018 IEEE Global Communications Conference (GLOBECOM). IEEE, 2018: 1-6.</a>.
 
-
-
-
+<a href="https://jiangwei99.github.io/Paper/Straggler_Mitigation_Through_Unequal_Error_Protection_for_Distributed_Approximate_Matrix_Multiplication.pdf"  target="_blank" >B. Tegin, E. E. Hernandez, S. Rini and T. M. Duman, "Straggler Mitigation Through Unequal Error Protection for Distributed Approximate Matrix Multiplication," in *IEEE Journal on Selected Areas in Communications*, vol. 40, no. 2, pp. 468-483, Feb. 2022, doi: 10.1109/JSAC.2021.3118350.</a>.
 
 
 
