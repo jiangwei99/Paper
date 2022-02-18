@@ -1,0 +1,1 @@
+https://jiangwei99.github.io/Paper/%E3%80%901%E3%80%91On_the_Capacity_of_Secure_Distributed_Matrix_Multiplication/On_the_Capacity_of_Secure_Distributed_Matrix_Multiplication.pdf
